@@ -16,7 +16,6 @@ color:#191970;
 <!DOCTYPE html>
 <html>
 <head>
-<h2>Clickable Dropdown</h2>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .dropbtn {
@@ -65,7 +64,7 @@ color:#191970;
   <div id="myDropdown" class="dropdown-content">
     <a href="index.php">Home</a>
     <a href="news.php">News</a>
-	 <a href="HOME.php">test</a>
+	 <a href="Guides.php">Guides</a>
     <a href="https://vk.com/bomjkotoriisiditdoma">VK</a>
     <a href="https://www.facebook.com/revival.cabal">FACEBOOK</a>
     <a href="https://discord.com/invite/J7xN8PcsaH">Discord</a>
