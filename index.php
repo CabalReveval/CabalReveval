@@ -17,7 +17,6 @@
 <link rel="shortcut icon" type="image/ico" href="images/favicon.ico">
 <meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
 <meta name="application-name" content="Fixar do Cabal Nexus">
-<meta name="msapplication-starturl" content="https://www.cabalicore.com.br/">
 <meta name="msapplication-navbutton-color" content="#3480C0">
 <meta name="msapplication-window" content="width=1024;height=999">
 <meta name="msapplication-tooltip" content="Navegar no site do Cabal Revival">
