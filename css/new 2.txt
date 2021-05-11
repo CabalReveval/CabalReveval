@@ -1,9 +1,0 @@
-.content {
-  width: 1360px;
-  padding: 50px;
-  min-height: 1000px;
-  background: #07131f;
-  -webkit-margin-start: -1px;
-  line-height: 1.3;
-}
-// это фигня снизу
